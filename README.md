@@ -1,15 +1,5 @@
-# layeredge-cli Node setup guide
-How to run layeredge light node on vps
 
-Follow these steps to set up and run your LayerEdge CLI Light Node efficiently.
-
-# Join Crypto Console Community
-
-Join TG : [Crypto Console Telegram](https://t.me/cryptoconsol) 
-
-Follow X : [Crypto Console Twitter](https://www.x.com/cryptoconsol) 
-
-Subscribe : [Crypto Console Youtube](https://www.youtube.com/@cryptoconsole)
+Join TG : https://t.me/DailyAirdrop93
 
 ---
 
@@ -19,26 +9,7 @@ Subscribe : [Crypto Console Youtube](https://www.youtube.com/@cryptoconsole)
 |--------------|-------------------------|
 | **CPU**      | atleast 4 Cores         |
 | **RAM**      | 4 - 8 GB                |
-| **Disk**     | 100  GB  SSD            |
-
----
-
-# VPS Options
-
-💻 Contabo VPS Deals 🚀 Buy with Credit Card/Paypal/Crypto Credit card : 
-
-Get powerful VPS solutions with these direct links:  
-
-
-| **VPS** | **Direct Link**                      | 
-|---------|--------------------------------------|
-| VPS 1   | [Contabo VPS 1](https://www.jdoqocy.com/click-101278318-15692486) | 
-| VPS 2   | [Contabo VPS 2](https://www.anrdoezrs.net/click-101278318-13796472) |
-| VPS 3   | [Contabo VPS 3](https://www.dpbolvw.net/click-101278318-13796474) | 
-| VPS 4   | [Contabo VPS 4](https://www.anrdoezrs.net/click-101278318-13796476) | 
-
-
-💡 **Get started with the perfect VPS for your needs!** 🚀
+| **Disk**     | 100  GB  SSD    
 
 ---
 
